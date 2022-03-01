@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cruel land-lord: or, The fortunate husband-man: containing a sweet and comfortable cordial, after sharp and sower sorrow, as you shall find by this following ditty. To the tune of, If love's a sweet passion, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02522</idno>
+            <idno type="STC">Wing C7419</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[86]</idno>
+            <idno type="EEBO-CITATION">99887656</idno>
+            <idno type="PROQUEST">ocm99887656</idno>
+            <idno type="VID">183281</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02522)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183281)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[72])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cruel land-lord: or, The fortunate husband-man: containing a sweet and comfortable cordial, after sharp and sower sorrow, as you shall find by this following ditty. To the tune of, If love's a sweet passion, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Blare,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "There was a poor man liv'd in Somerset-shire ..."</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: cropped, affecting imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="86" facs="tcp:183281:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>
+               <hi>The Cruel LAND-LORD: OR, <hi>The Fortunate Husband-man:</hi>
+               </hi>
+            </head>
+            <head type="sub">Containing a ſweet and comfortable Cordial, after ſharp and ſower Sorrow, as you ſhall find by this following Ditty.</head>
+            <opener>To the Tune of, <hi>If Love's a ſweet Paſſion,</hi> &amp;c.</opener>
+            <p>
+               <figure>
+                  <sp>
+                     <q>
+                        <p>Lord bring my Soule out of Priſon.</p> 
+                        <bibl>pſal. 142.</bibl>
+                     </q>
+                  </sp>
+               </figure>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>THere was a poor Man liv'd in <hi>Somerſet-ſhire,</hi>
+               </l>
+               <l>Who by his loving-VVife had five Children dear;</l>
+               <l>And tho' every day he did work and take pains,</l>
+               <l>Yet ſo great was his charge and ſo little his gains,</l>
+               <l>That he ſcarce could get Bread for to feed them with all,</l>
+               <l>VVhen they did to their Father for Nouriſhment call.</l>
+            </lg>
+            <lg>
+               <l>All kind of Proviſion was rais'd in a trice.</l>
+               <l>Being forc'd an compell'd to give double the Price</l>
+               <l>For our Bread<g ref="char:punc">▪</g> corn, and likewi7s;e all manner of Food;</l>
+               <l>From which Con<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>deration we well may conclude,</l>
+               <l>That it muſt be a ſorrow and grief to the poor</l>
+               <l>VVho receive for their VVork not one Penny the more.</l>
+            </lg>
+            <lg>
+               <l>The Rich at a plentiful Table do feed,</l>
+               <l>VVhile the Poor they are ready to Periſh for need;</l>
+               <l>As by woeful Experience we well underſtand,</l>
+               <l>For there is many good Familes now in this Land,</l>
+               <l>That can hardly bear up, let them do what they can,</l>
+               <l>Ay, and ſuch was the caſe of this honeſt poor Man.</l>
+            </lg>
+            <lg>
+               <l>His VVife ſhe fell Sick, and did languiſhing lye,</l>
+               <l>At the end of full ſeventeen VVeeks ſhe did dye;</l>
+               <l>In which time he could ne'er pay the Landlard his Rent,</l>
+               <l>VVho did threaten him daily, That he ſhould be ſent</l>
+               <l>To a Priſon, where he ſhould for ever remain,</l>
+               <l>For without Rent he ne'er would releaſe him again.</l>
+            </lg>
+            <lg>
+               <l>He cry'd, <hi>Be not ſo Cruel, Pray Land-lord forbear,</hi>
+               </l>
+               <l>
+                  <hi>You ſhall not loſe one Penny, I'll work and take care</hi>
+               </l>
+               <l>
+                  <hi>For to pay you next Harveſt;</hi> yet this was in vain,</l>
+               <l>Having bury'd his VVife, and returning again;</l>
+               <l>He arreſted this poor Man, and ſent him to Iayl,</l>
+               <l>For he had not a friend that would ſtand for his Bayl.</l>
+            </lg>
+            <lg>
+               <l>The cries of the Infants did ring in his Ears,</l>
+               <l>And in ſorrow they paid a ſad tri<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e of Teers;</l>
+            </lg>
+            <lg>
+               <l>Yet this cruel Oppreſſor no pity would ſhow,</l>
+               <l>But to Priſon the poor Man was <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orced to go;</l>
+               <l>VVhile his poor little Infants did weep and bewail,</l>
+               <l>Their dear Mother was Dead, and their Father in Iayl,</l>
+            </lg>
+            <lg>
+               <l>There was a poor VVidow that liv'd in the Town,</l>
+               <l>VVho did readily proffer to part with a Crown</l>
+               <l>Towards raiſing a Sum, the ſaid Land-lord to pay,</l>
+               <l>Her example was follow'd by others next day;</l>
+               <l>So they quickly releas'd their poor Neighbour from thrall;</l>
+               <l>Having ſome what to feed his poor Children withal.</l>
+            </lg>
+            <lg>
+               <l>About five VVeeks after this Action was done,</l>
+               <l>He had an one loving Couſin, a dear Siſter's Son,</l>
+               <l>VVho did dye without Iſſue, and made him his Heir;</l>
+               <l>Horſe and Man being ſent for to find him out there.</l>
+               <l>For to take Poſſion of two Hundred a Year,</l>
+               <l>VVhich does lie in the middle of fair <hi>Dorſet-ſhire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Soon after he was in Poſſion of all,</l>
+               <l>He return'd to the Town, for his friends he did call,</l>
+               <l>VVho had hope him from Priſon, requiting there love</l>
+               <l>But the poor honeſt Widow he honour'd above</l>
+               <l>All the reſt of his good Benefactors and Friends,</l>
+               <l>For he took her to VVife for to make her amends,</l>
+            </lg>
+            <lg>
+               <l>Some blam'd him for making that VVidow his VVife,</l>
+               <l>But he anſwer'd, ſaying, <hi>She ſaved my Life,</hi>
+               </l>
+               <l>
+                  <hi>Had it not been for her, I in Goal might have dy'd;</hi>
+               </l>
+               <l>
+                  <hi>She's deſerying and worthy to be my ſweet Bride;</hi>
+               </l>
+               <l>
+                  <hi>I ſhall always remember her love and good will,</hi>
+               </l>
+               <l>
+                  <hi>And while life does remain I will honour her ſtill.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This cruel Oppreſſor which was ſo unkind,</l>
+               <l>He began to be vexed and mad in his mind,</l>
+               <l>He that had been his honeſt mean Tenant before,</l>
+               <l>Was at laſt the head Land-lord of his and much more;</l>
+               <l>For the cruelty acted when as his Wife dy'd,</l>
+               <l>He was fearful he would probe a Thorn in his ſide.</l>
+            </lg>
+            <lg>
+               <l>Whoſe Sorrow was evermore ſharp and severe,</l>
+               <l>Yet he now has no leſs then two Hundred a Year;</l>
+               <l>Thus we ſee how good Providence ſtill does take care,</l>
+               <l>Of the, Poor and the Needy, then who ſhall diſpair?</l>
+               <l>Let us truſt in God's Mercies, tho' never ſo poor.</l>
+               <l>It is he that in love can repleniſh our Store.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
